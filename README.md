@@ -1,2 +1,2 @@
 # affiliate-review-boilerplate
-Demo fullstack boilerplate for affiliate review sites — featuring product comparisons, link tracking, SEO optimization, Vue 3, NestJS, and Docker.
+Demo fullstack web boilerplate for affiliate review sites — featuring product comparisons, link tracking, and SEO optimization, built with Vue 3, NestJS, and Docker
